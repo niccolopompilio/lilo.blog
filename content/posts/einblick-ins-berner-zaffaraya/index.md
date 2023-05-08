@@ -19,7 +19,7 @@ Heute wohnen rund 17 Erwachsene auf dem Platz. Um das Leben auf dem Platz besser
 
 Das Zaffaraya hat eine reiche und volle Geschichte. Als es ende Juli 1985 gegründet wurde, waren sich die Jugendunruhen der Schweiz gerade am Beruhigen. Die Unsicherheiten des Volks hatten sich ein bisschen gekühlt und das Leben war wie immer. Dann am 31. Juli stellten zwanzig bis dreissig Leute, zwischen 20 und 25 Jahre alt, beim Gaswerkareal, Lager auf. Es war eine Gemeinschaft von Menschen, die sich gegenseitig auf jede mögliche weise geholfen haben. Sie hatten Gemüse- und Kräutergarten, Schweine, und Hühner. Strom bekamen sie vom Gaskessel und brauchten die Aare, um zu waschen. Obwohl dies sehr harmlos tönt, hatten welche Bürger der Stadt Bern ein Problem damit.  Die Sachen welche am meisten kritisiert wurden waren, dass sich das «freie Land» auf öffentlichem Berner Grund stand, und, dass die Bewohner der Zaffaraya sich Sachen erlaubten welche das Berner Volk dicht durfte. Dadurch fühlten sich manche Leute nicht gerecht behandelt. Trotzdem wurde das Zaffaraya, in einer Umfrage der Berner Zeitung, 61% der Berner Bevölkerung unterstützt.
 
-![Zaffaraya 1988](zaffaraya-1988.png)
+![Zaffaraya Räumung 1987](zaffaraya-raumung.png)
 
 **«Das ist in Bern so Kultur»**
 
@@ -41,15 +41,15 @@ Die COVID-19 Pandemie, die beginn 2020 ausbrach, hatte auch einen Effekt auf die
 
 Die Frage vielen Leuten bleibt aber immer gleich, wie kann man überhaupt an einen solchen Ort ziehen? Die Antwort ist recht einfach: Zuerst muss es genügend Platz haben, falls dies der Fall ist muss man sich bewerben, sich vorstellen kommen und schlussendlich entscheiden die Einwohner des Platzes wer und wer nicht einziehen darf. Das Vetorecht ist in einer solchen Gemeinschaft sehr prägend, da wenn auch nur eine Person dagegen ist, darf die betroffene Person nicht einziehen. Herr Stähli sagt man muss schauen, dass das Gleichgewicht nicht auseinander fällt und deswegen sei es zu fragil. Obwohl dies für die Kandidaten etwas problematisch sein kann, ist es laut Herr Stähli ein Vorteil da die Mitbewohner nicht einfach irgendwelche Leute sind, sondern solche die eine gute Dynamik mit allen haben. Natürlich gibt es auch Sachen welche gar nicht gehen, wie zum Beispiel starke Drogensucht, Gewalt, Sexismus etc. «Hier ist es auf einem ziemlich hohen kulturellen Niveau» sagt Herr Stähli.
 
-```
+
+
 {{<box>}}
 
-**Hintergrundinformation**
+Hintergrundinformation
 
 Jedes halbe Jahr bekam das Zaffaraya vom Stadtrat eine Aufforderung den Platz du verlassen, jedoch geschah Langezeit nichts. Später entschied der Stadtrat, dass die Zaffarayas am 15. November 1987 den Platz bei der Aare verlassen müssten. Doch passierte am 15. nichts. Dasselbe am 16. Dann schlussendlich erschienen am 17. November 200 bewaffnete Polizisten auf dem Areal. Später um elf Uhr vierzig wurde den Polizisten befohlen den Platz zu stürmen. Um zwölf Uhr war das Hüttendorf zerstört.
 
 {{</box>}}
-```
 
 
 
