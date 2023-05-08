@@ -1,5 +1,5 @@
 +++
-title = "Einblick ins Berner Zaffaraya"
+title = "Einblick ins Berner Zaffaraya (1)"
 date = "2023-05-08"
 draft = false
 pinned = false
