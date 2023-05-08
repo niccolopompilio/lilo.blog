@@ -11,8 +11,6 @@ image = ""
 
 {{</lead>}}
 
-
-
 *Reportage von Niccolò Pompilio*
 
 
