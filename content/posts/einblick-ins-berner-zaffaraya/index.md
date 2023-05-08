@@ -11,6 +11,8 @@ Am 17. November 1987 wurde der Platz innerhalb einer halben Stunde von der Poliz
 
 {{</lead>}}
 
+
+
 ![Zaffaraya 1988](zaffaraya-1988.png)
 
 Das "freie Land Zaffaraya" oder Zaffaraya entstand am 31. Juli 1985 im Berner Marzili. Es war zusammen mit der Reithalle, Dampfzentrale und dem Gaskessel ein Symbol für die Jugendunruhen in Bern. Das «freie Land» wurde auf den folgenden anarchistischen Ideen gegründet: «Es herrschte kein Zwang, kein Boss  an der Macht, jeder ist für sich selbst verantwortlich, was nichts mit Egoismus zu tun hat, denn so wie wir zusammenleben, ist Rücksicht auf das Leben um und neben uns \[nötig], sonst machen wir uns gegenseitig kaputt! Wir brauchen unsere Kräfte da wir oft genug von aussen angegriffen werden!»
