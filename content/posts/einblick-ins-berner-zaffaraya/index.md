@@ -7,15 +7,15 @@ image = ""
 +++
 {{<lead>}}
 
-Am 17. November 1987 wurde der Platz innerhalb einer halben Stunde von der Polizei zerstört. Später im Oktober 1988 wurde das ursprüngliche Gelände wiederbesetzt. Dann im Jahr 2006 gab der Kanton den "Zaffys", wie sie sich selbst nennen, den Platz beim Neufeld, wo sie jetzt sind.
+1985 entstand in Bern die Zaffaraya. Die "Zaffys" leben an der Grenze der Gesellschaft in selbstgebauten Häusern und Campers. Sie leben ihr Leben so wie sie wollen, mit wenig Einfluss von anderen. Christian Stähli und seine Familie leben seit 1999 dort.
 
 {{</lead>}}
-
-
 
 ![Zaffaraya 1988](zaffaraya-1988.png)
 
 Das "freie Land Zaffaraya" oder Zaffaraya entstand am 31. Juli 1985 im Berner Marzili. Es war zusammen mit der Reithalle, Dampfzentrale und dem Gaskessel ein Symbol für die Jugendunruhen in Bern. Das «freie Land» wurde auf den folgenden anarchistischen Ideen gegründet: «Es herrschte kein Zwang, kein Boss  an der Macht, jeder ist für sich selbst verantwortlich, was nichts mit Egoismus zu tun hat, denn so wie wir zusammenleben, ist Rücksicht auf das Leben um und neben uns \[nötig], sonst machen wir uns gegenseitig kaputt! Wir brauchen unsere Kräfte da wir oft genug von aussen angegriffen werden!»
+
+Am 17. November 1987 wurde der Platz innerhalb einer halben Stunde von der Polizei zerstört. Später im Oktober 1988 wurde das ursprüngliche Gelände wiederbesetzt. Dann im Jahr 2006 gab der Kanton den "Zaffys", wie sie sich selbst nennen, den Platz beim Neufeld, wo sie jetzt sind.
 
 Heute wohnen rund 17 Erwachsene auf dem Platz. Um das Leben auf dem Platz besser zu verstehen werden wir mit Christian Stähli, Lehrer, Musiker und Vater dreier Kinder, sprechen. Als wir ankommen werden wir von Herr Stähli begrüsst und sitzen gerade draussen mit ihm. Er erzählt, dass er im Jahr 1999 auf dem alten Platz mit der Zaffaraya gestartet hat. Seit her hat sich der Platz auf welchem sich das Quartier befindet zweimal geändert. Und obwohl sich der Platz schon ein paarmal umgewandelt hat, bleiben die Leute hauptsächlich die gleichen, da es nicht sehr einfach ist, ins Zaffaraya einzuziehen. Alle Leute, die momentan auf dem Platz wohnen, müssen zustimmen, ob eine neue Person einziehen darf oder nicht. Auch wenn eine Person nein sagt, kann es dazu kommen das jemand nicht einziehen kann. Ein anderes Problem ist aber sicher Platz. Die Zaffaraya hat ein beschränktes Stück Land und kann somit nicht unendlich viele Leute aufnahmen. Die Häuser werden auch von den Einwohnern selbst gebaut. Das beinhaltet auch Strom, Wasser, Abwasser etc. «Du musst immer alles selbst machen» sagt Herr Stähli, «ja, da lernst du nicht viel mehr Neues, dann musst du es einfach machen. Ja, das ist manchmal schon ein wenig deprimierend, aber, ja, eben auf die eine oder die andere Art kostet wohnen.»
 
