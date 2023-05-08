@@ -39,7 +39,13 @@ Das Zaffaraya hat eine reiche und volle Geschichte. Als es ende Juli 1985 gegrü
 
 Die Zaffaraya ist nicht das einzige kleine Quartier welches nicht dem stereotypen Lebensstil entspricht. Ein paar hundert Meter entfernt ist das Viererfeld. «Sie kommen zum Beispiel bei uns duschen und Wäsche waschen, denn die haben kein Abwasser». Und obwohl diese zwei Wagenplätze sehr nahe beieinander sind, wirken sie doch nicht so eng: «Also sonst ist man eigentlich wie den anderen Leuten auch, recht mit seinem eigenen Leben beschäftigt. Und da hast du nicht auch Zeit für mit sämtlichen Wagenplätzen auszutauschen». Das bedeutet aber nicht das die Zaffaraya nichts besonders macht. Jedes Jahr gibt es am 30. Juli das Zaffaraya Fest, welches für alle offen ist.
 
+{{<box>}}
 
+Hintergrundinformation
+
+Jedes halbe Jahr bekam das Zaffaraya vom Stadtrat eine Aufforderung den Platz du verlassen, jedoch geschah Langezeit nichts. Später entschied der Stadtrat, dass die Zaffarayas am 15. November 1987 den Platz bei der Aare verlassen müssten. Doch passierte am 15. nichts. Dasselbe am 16. Dann schlussendlich erschienen am 17. November 200 bewaffnete Polizisten auf dem Areal. Später um elf Uhr vierzig wurde den Polizisten befohlen den Platz zu stürmen. Um zwölf Uhr war das Hüttendorf zerstört.
+
+{{</box>}}
 
 **Ungenaue Sicht von aussen**
 
@@ -59,12 +65,6 @@ Die COVID-19 Pandemie, die beginn 2020 ausbrach, hatte auch einen Effekt auf die
 
 Die Frage vielen Leuten bleibt aber immer gleich, wie kann man überhaupt an einen solchen Ort ziehen? Die Antwort ist recht einfach: Zuerst muss es genügend Platz haben, falls dies der Fall ist muss man sich bewerben, sich vorstellen kommen und schlussendlich entscheiden die Einwohner des Platzes wer und wer nicht einziehen darf. Das Vetorecht ist in einer solchen Gemeinschaft sehr prägend, da wenn auch nur eine Person dagegen ist, darf die betroffene Person nicht einziehen. Herr Stähli sagt man muss schauen, dass das Gleichgewicht nicht auseinander fällt und deswegen sei es zu fragil. Obwohl dies für die Kandidaten etwas problematisch sein kann, ist es laut Herr Stähli ein Vorteil da die Mitbewohner nicht einfach irgendwelche Leute sind, sondern solche die eine gute Dynamik mit allen haben. Natürlich gibt es auch Sachen welche gar nicht gehen, wie zum Beispiel starke Drogensucht, Gewalt, Sexismus etc. «Hier ist es auf einem ziemlich hohen kulturellen Niveau» sagt Herr Stähli.
 
-{{<box>}}
 
-Hintergrundinformation
-
-Jedes halbe Jahr bekam das Zaffaraya vom Stadtrat eine Aufforderung den Platz du verlassen, jedoch geschah Langezeit nichts. Später entschied der Stadtrat, dass die Zaffarayas am 15. November 1987 den Platz bei der Aare verlassen müssten. Doch passierte am 15. nichts. Dasselbe am 16. Dann schlussendlich erschienen am 17. November 200 bewaffnete Polizisten auf dem Areal. Später um elf Uhr vierzig wurde den Polizisten befohlen den Platz zu stürmen. Um zwölf Uhr war das Hüttendorf zerstört.
-
-{{</box>}}
 
 Die Idee eines alternativen Lebensstyl ist in der Stadt Bern nichts neues. Schon seit den 80 Jahren gibt es in der Schweiz Zeichen der Rebellion mit den verschiedenen Jugendunruhen und Aufständen. Das Berner Zaffaraya ist ein Zeichen der Freiheit und der Freude am Leben. Es hat schon einiges überlebt und wird dies auch weiter machen. Seit es 1985 gegründet wurde, hat das Zaffaraya schon viel erlebt. Falls es immer noch Leute, die der Idee eines alternativen Lebensstyl kritisch sind, gibt empfehlt ihnen Herr Stähli mal vorbei zu kommen.
