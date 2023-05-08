@@ -11,13 +11,13 @@ image = ""
 
 {{</lead>}}
 
-![Zaffaraya 1988](zaffaraya-1988.png)
-
 
 
 *Reportage von Niccolò Pompilio*
 
 
+
+![Zaffaraya 1988](zaffaraya-1988.png)
 
 Ein kalter, typischer Frühlingstag um 13 Uhr in der Zaffaraya. Wir warten auf Christian Stähli. Es ist still. Man hört nur die Autobahn neben an. In seinem Pyjama gekleidet, mit einer Jacke gegen die Kälte, kommt Christian auf uns zu. Da die Sonne noch scheint und es noch warm ist, leiten wir unser Gespräch an einem Tisch auf dem grossen rasen.
 
