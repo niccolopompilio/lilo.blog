@@ -13,6 +13,8 @@ image = ""
 
 ![Zaffaraya 1988](zaffaraya-1988.png)
 
+Ein kalter, typischer Frühlingstag um 13 Uhr in der Zaffaraya. Wir warten auf Christian Stähli. Es ist still. Man hört nur die Autobahn neben an. In seinem Pyjama gekleidet, mit einer Jacke gegen die Kälte, kommt Christian auf uns zu. Da die Sonne noch scheint und es noch warm ist, leiten wir unser Gespräch an einem Tisch auf dem grossen rasen.
+
 Das "freie Land Zaffaraya" oder Zaffaraya entstand am 31. Juli 1985 im Berner Marzili. Es war zusammen mit der Reithalle, Dampfzentrale und dem Gaskessel ein Symbol für die Jugendunruhen in Bern. Das «freie Land» wurde auf den folgenden anarchistischen Ideen gegründet: «Es herrschte kein Zwang, kein Boss  an der Macht, jeder ist für sich selbst verantwortlich, was nichts mit Egoismus zu tun hat, denn so wie wir zusammenleben, ist Rücksicht auf das Leben um und neben uns \[nötig], sonst machen wir uns gegenseitig kaputt! Wir brauchen unsere Kräfte da wir oft genug von aussen angegriffen werden!»
 
 Am 17. November 1987 wurde der Platz innerhalb einer halben Stunde von der Polizei zerstört. Später im Oktober 1988 wurde das ursprüngliche Gelände wiederbesetzt. Dann im Jahr 2006 gab der Kanton den "Zaffys", wie sie sich selbst nennen, den Platz beim Neufeld, wo sie jetzt sind.
@@ -31,11 +33,15 @@ Das Zaffaraya hat eine reiche und volle Geschichte. Als es ende Juli 1985 gegrü
 
 Die Zaffaraya ist nicht das einzige kleine Quartier welches nicht dem stereotypen Lebensstil entspricht. Ein paar hundert Meter entfernt ist das Viererfeld. «Sie kommen zum Beispiel bei uns duschen und Wäsche waschen, denn die haben kein Abwasser». Und obwohl diese zwei Wagenplätze sehr nahe beieinander sind, wirken sie doch nicht so eng: «Also sonst ist man eigentlich wie den anderen Leuten auch, recht mit seinem eigenen Leben beschäftigt. Und da hast du nicht auch Zeit für mit sämtlichen Wagenplätzen auszutauschen». Das bedeutet aber nicht das die Zaffaraya nichts besonders macht. Jedes Jahr gibt es am 30. Juli das Zaffaraya Fest, welches für alle offen ist.
 
+
+
 **Ungenaue Sicht von aussen**
 
 Da viele Menschen an eine spezifische Lebensart gewohnt sind, wird die der «Zaffys» oft hinter Frage gestellt. Viele Personen haben deswegen Vorurteile, für Leute mit einem solchen Lebensstyl. Wir fragen Herr Stähli, ob es irgendein Stereotyp für Leute mit einem solchen Lebensstyl gibt, welches ihn stört, worauf er antwortet, dass ihn viel gefragt wird, ob sie Steuern zahlen. «Hier zahlt jeder Steuern, wer was verdient», sagt er. Andere denken, dass alle Bewohner des Platzes zusammen essen. Dies sagt er ist unmöglich. Wie man es von anderen Quartieren erwarten würde, essen die Leute mit ihren eigenen Familien. «wenn du dann Familie hast, isst du dann, wenn die Kinder nach Hause kommen (…) jede Partei hat ihren eigenen Fahrplan.»
 
 ![Zaffaraya Eingang](zaffaraya-eingang.png)
+
+
 
 **Leben während der Pandemie**
 
