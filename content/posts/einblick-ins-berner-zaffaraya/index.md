@@ -3,7 +3,7 @@ title = "Einblick ins Berner Zaffaraya "
 date = "2023-05-08"
 draft = false
 pinned = false
-image = ""
+image = "screenshot-2023-05-09-131854-wecompress.com-.png"
 +++
 {{<lead>}}
 
